@@ -3,6 +3,9 @@ An interactive tic-tac-toe game with React from the tutorial  on reactjs.org.
 
 Tutorial url: [https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/tutorial/tutorial.html)
 
+The **improvements** in this tutorial have been completed:
+> ![](https://bugupdater.github.io/static/images/tic-tac-toe/improvements.png)
+
 ### `Preview Online`
 
 - Tutorial Version: [https://codepen.io/gaearon/pen/gWWZgR?editors=0010](https://codepen.io/gaearon/pen/gWWZgR?editors=0010)
