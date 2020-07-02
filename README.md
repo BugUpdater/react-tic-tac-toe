@@ -5,7 +5,8 @@ Tutorial url: [https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/t
 
 ### `Preview Online`
 
-[https://bugupdater.github.io/repo/react/tic-tac-toe/index.html](https://bugupdater.github.io/repo/react/tic-tac-toe/index.html)
+- Tutorial Version: [https://codepen.io/gaearon/pen/gWWZgR?editors=0010](https://codepen.io/gaearon/pen/gWWZgR?editors=0010)
+- My Final Version: [https://bugupdater.github.io/repo/react/tic-tac-toe/index.html](https://bugupdater.github.io/repo/react/tic-tac-toe/index.html)
 
 ### `yarn start`
 
