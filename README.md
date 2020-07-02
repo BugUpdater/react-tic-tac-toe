@@ -1,7 +1,11 @@
 # react-tic-tac-toe
 An interactive tic-tac-toe game with React from the tutorial  on reactjs.org.
 
-Url: [https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/tutorial/tutorial.html)
+Tutorial url: [https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/tutorial/tutorial.html)
+
+### `Preview Online`
+
+[https://bugupdater.github.io/repo/react/tic-tac-toe/index.html](https://bugupdater.github.io/repo/react/tic-tac-toe/index.html)
 
 ### `yarn start`
 
