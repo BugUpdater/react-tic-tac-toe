@@ -1,6 +1,8 @@
 # react-tic-tac-toe
 An interactive tic-tac-toe game with React from the tutorial  on reactjs.org.
 
+> React官网的入门教程井字棋游戏，官网的附加题(六个优化点)也都完成了。
+
 Tutorial url: [https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/tutorial/tutorial.html)
 
 The **improvements** in this tutorial have been completed:
